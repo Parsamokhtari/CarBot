@@ -1,0 +1,12 @@
+/home/skyboy/w/flutter/my_app1/build/linux/x64/debug/bundle/my_app1
+/home/skyboy/w/flutter/my_app1/build/linux/x64/debug/bundle/data/icudtl.dat
+/home/skyboy/w/flutter/my_app1/build/linux/x64/debug/bundle/lib/libflutter_linux_gtk.so
+/home/skyboy/w/flutter/my_app1/build/linux/x64/debug/bundle/data/flutter_assets/AssetManifest.json
+/home/skyboy/w/flutter/my_app1/build/linux/x64/debug/bundle/data/flutter_assets/FontManifest.json
+/home/skyboy/w/flutter/my_app1/build/linux/x64/debug/bundle/data/flutter_assets/packages/cupertino_icons/assets/CupertinoIcons.ttf
+/home/skyboy/w/flutter/my_app1/build/linux/x64/debug/bundle/data/flutter_assets/AssetManifest.bin
+/home/skyboy/w/flutter/my_app1/build/linux/x64/debug/bundle/data/flutter_assets/fonts/MaterialIcons-Regular.otf
+/home/skyboy/w/flutter/my_app1/build/linux/x64/debug/bundle/data/flutter_assets/NOTICES.Z
+/home/skyboy/w/flutter/my_app1/build/linux/x64/debug/bundle/data/flutter_assets/kernel_blob.bin
+/home/skyboy/w/flutter/my_app1/build/linux/x64/debug/bundle/data/flutter_assets/shaders/ink_sparkle.frag
+/home/skyboy/w/flutter/my_app1/build/linux/x64/debug/bundle/data/flutter_assets/version.json
