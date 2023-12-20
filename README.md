@@ -2,18 +2,19 @@
 
 This Flutter app allows remote control of a car using a NodeMCU-based WiFi module. The app provides a user interface for controlling the car's movement and speed over a WiFi connection.
 
-<row>
-    <col>
-        <img src="Pic/car-photo.jpg" alt="Image 2" width="200"/>
-        *here is the Car*
-        <img src="Pic/car-running.gif" alt="Animated GIF" width="200"/>
-        *Car is moving around And it is controlled through the mobile app*
-    </col>
-    <col>
-        <img src="Pic/android-app.png" alt="Image 1" width="200"/>
-        *The android app menu*
-    </col>
-</row>
+
+## Car Photos
+
+- ![Car Photo](Pic/car-photo.jpg)
+  *Here is the Car*
+
+- ![Running Car](Pic/car-running.gif)
+  *Car is moving around, and it is controlled through the mobile app*
+
+## Android App
+
+- ![Android App Menu](Pic/android-app.png)
+  *The Android app menu*
 
 
 
