@@ -2,12 +2,8 @@
 
 This Flutter app allows remote control of a car using a NodeMCU-based WiFi module. The app provides a user interface for controlling the car's movement and speed over a WiFi connection.
 
-
 <img src="Pic/car-photo.jpg" alt="Image 2" width="400"/>
 *here is the Car*
-
-<img src="Pic/car-running.gif" alt="Animated GIF" width="400"/>
-*Car is moving around And it is controlled through the mobile app*
 
 
 ## Table of Contents
@@ -20,6 +16,10 @@ This Flutter app allows remote control of a car using a NodeMCU-based WiFi modul
 ## Project Overview
 
 This project consists of a Flutter mobile app that communicates with a NodeMCU-based WiFi module, controlling a car's movement and speed. The Flutter app allows the user to input an IP address, control the car's movement using buttons, and adjust the car's speed using a slider.
+
+<img src="Pic/car-running.gif" alt="Animated GIF" width="400"/>
+*Car is moving around And it is controlled through the mobile app*
+
 
 ## Folder Structure
 
@@ -51,5 +51,5 @@ To set up the NodeMCU-based WiFi-controlled car:
 
 For a visual guide on how to set up the NodeMCU board and use the app, refer to the images in the `pic/` folder.
 
-Add screenshots here if available.
-
+<img src="Pic/Schematic_L293D-Motor-Driver_Sheet-1_20190520010859.png" alt="Image 3" width="200"/>
+<img src="Pic/WIFI CAR CIRCUIT11.jpg" alt="Image 4" width="200"/>
