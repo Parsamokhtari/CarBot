@@ -89,16 +89,8 @@ class _MyHomePageState extends State<MyHomePage> {
               mainAxisAlignment: MainAxisAlignment.spaceEvenly,
               children: <Widget>[
                 ElevatedButton(
-                  onPressed: () => _sendCommand('G'),
-                  child: Text('Front Left'),
-                ),
-                ElevatedButton(
                   onPressed: () => _sendCommand('F'),
                   child: Text('Forward'),
-                ),
-                ElevatedButton(
-                  onPressed: () => _sendCommand('I'),
-                  child: Text('Front Right'),
                 ),
               ],
             ),
@@ -112,7 +104,7 @@ class _MyHomePageState extends State<MyHomePage> {
                 ),
                 ElevatedButton(
                   onPressed: () => _sendCommand('S'),
-                  child: Text('Stop'),
+                  child: Text(' Stop'),
                 ),
                 ElevatedButton(
                   onPressed: () => _sendCommand('R'),
@@ -125,38 +117,8 @@ class _MyHomePageState extends State<MyHomePage> {
               mainAxisAlignment: MainAxisAlignment.spaceEvenly,
               children: <Widget>[
                 ElevatedButton(
-                  onPressed: () => _sendCommand('H'),
-                  child: Text('Back Left'),
-                ),
-                ElevatedButton(
                   onPressed: () => _sendCommand('B'),
                   child: Text('Backward'),
-                ),
-                ElevatedButton(
-                  onPressed: () => _sendCommand('J'),
-                  child: Text('Back Right'),
-                ),
-              ],
-            ),
-            SizedBox(height: 80),
-            Column(
-              mainAxisAlignment: MainAxisAlignment.center,
-              children: <Widget>[
-                Text(
-                  'Car Speed: ${_speed.round()}',
-                  style: TextStyle(fontSize: 18),
-                ),
-                Slider(
-                  value: _speed,
-                  min: 0,
-                  max: 9,
-                  divisions: 9,
-                  onChanged: (value) {
-                    setState(() {
-                      _speed = value;
-                    });
-                    _sendCommand(value.toInt().toString());
-                  },
                 ),
               ],
             ),

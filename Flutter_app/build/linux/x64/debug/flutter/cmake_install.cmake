@@ -1,8 +1,8 @@
-# Install script for directory: /home/skyboy/w/flutter/my_app1/linux/flutter
+# Install script for directory: /home/skyboy/w/flutter/Flutter-Nodemcu-WiFi-Car-Control/Flutter_app/linux/flutter
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)
-  set(CMAKE_INSTALL_PREFIX "/home/skyboy/w/flutter/my_app1/build/linux/x64/debug/bundle")
+  set(CMAKE_INSTALL_PREFIX "/home/skyboy/w/flutter/Flutter-Nodemcu-WiFi-Car-Control/Flutter_app/build/linux/x64/debug/bundle")
 endif()
 string(REGEX REPLACE "/$" "" CMAKE_INSTALL_PREFIX "${CMAKE_INSTALL_PREFIX}")
 
